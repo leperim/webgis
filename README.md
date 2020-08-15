@@ -1,2 +1,1 @@
-Meu primeiro arquivo no gitttttt.
-Alteerado para descrever melhor meu sistema.
+Só uma nova linha novamente

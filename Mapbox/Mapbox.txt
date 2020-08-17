@@ -1,9 +1,0 @@
-user: leperim
-Nmxxxxxxº*
-
-Default public Token
-pk.eyJ1IjoibGVwZXJpbSIsImEiOiJja2NtNzc2bjYyN2d1MnFvM2FidzZzaTFqIn0.yV9sRgLysKLjBEBDZ-BlJg
-
-https://account.mapbox.com/
-	Vá´para ícone canto sup dir
-		Procure por acount (caso expire a chave)

@@ -11,8 +11,9 @@
    			integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
    			crossorigin="">					
    </script>
-	<link rel="stylesheet" href="/dist/leaflet-routing-machine.js" />
-	<script src="/dist/leaflet-routing-machine.js"></script>
+   <!--FUNCIONA ROUTE MACHINE APENAS NA HOSTINGER, NÃO NO EASYphp. bUSCA PASTA dist DENTRO DO GITIGNORE-->
+	<!--<link rel="stylesheet" href="/dist/leaflet-routing-machine.js" />
+	<script src="/dist/leaflet-routing-machine.js"></script>-->
    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><!--Atestar resultado!-->
 	<style>
 		html, body, #mapid{

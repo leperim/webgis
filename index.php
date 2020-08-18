@@ -130,7 +130,7 @@
 		<img src="obras.png" alt="Site em Construção" style=" display: block; margin-left: auto; margin-right: auto">
 
 <footer style="background-color: #333333; color:white; text-align: center; line-height: 1; font-size:80%">
-	<p style="margin:0">Contato com o autor pode ser feito pelo email: contato@leandroamadeu.online</p>
+	<p style="margin:0">Contato com o autor pode ser feito pelo email: contato@leandroamadeu.online!</p>
 	<p style="margin:0">	
 		<?php
 			$arquivo = fopen("contador.txt","r"); // r = abre para leitura com ponteiro no início
